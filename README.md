@@ -83,6 +83,19 @@ I help small teams and solo operators ship **production-grade** software: full-s
 
 ---
 
+## 📊 GitHub 活跃度 / Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=491034170&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=4facfe&icon_color=4facfe" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=491034170&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4facfe&langs_count=8" height="180" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=491034170&theme=tokyonight&hide_border=true&background=0d1117&ring=4facfe&fire=4facfe&currStreakLabel=4facfe" alt="GitHub Streak"/>
+</p>
+
+---
+
 ## ⭐ 支持 / Support
 
 如果这些项目对你有帮助,点个 Star 就是最大的鼓励。
