@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://tianmind.com"><img src="https://img.shields.io/badge/官网-tianmind.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://github.com/491034170/services"><img src="https://img.shields.io/badge/服务目录-Services-4FACFE?style=flat-square&logo=github&logoColor=white" alt="Services"/></a>
+  <a href="https://491034170.github.io/word-pdf-watermark-macos/"><img src="https://img.shields.io/badge/最新工具-Word_PDF_Watermark-111111?style=flat-square&logo=githubpages&logoColor=white" alt="Word PDF Watermark"/></a>
   <a href="https://491034170.github.io/tianmind-landing/"><img src="https://img.shields.io/badge/在线演示-Live_Demo-7C3AED?style=flat-square&logo=githubpages&logoColor=white" alt="Live Demo"/></a>
   <a href="mailto:wx@tianmind.com"><img src="https://img.shields.io/badge/Email-wx@tianmind.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/淘宝店-天智工坊-FF6A00?style=flat-square&logo=alibabadotcom&logoColor=white" alt="Taobao"/>
@@ -18,12 +19,13 @@
 
 ## 先看这里 / Start here
 
-如果你是第一次来到这个 GitHub，先看这 4 个地方：
+如果你是第一次来到这个 GitHub，先看这 5 个地方：
 
 1. [services](https://github.com/491034170/services) — 服务范围、起价、合作流程、FAQ
-2. [tianmind-landing](https://github.com/491034170/tianmind-landing) · [Live Demo](https://491034170.github.io/tianmind-landing/) — 工作室品牌落地页模板
-3. [expert-review-panel](https://github.com/491034170/expert-review-panel) · [Live Guide](https://491034170.github.io/expert-review-panel/) — 严审型 Claude Skill / AI 工作流
-4. [english-coach](https://github.com/491034170/english-coach) · [Live Guide](https://491034170.github.io/english-coach/) — 把日常对话变成英语训练
+2. [word-pdf-watermark-macos](https://github.com/491034170/word-pdf-watermark-macos) · [Live Site](https://491034170.github.io/word-pdf-watermark-macos/) · [Release](https://github.com/491034170/word-pdf-watermark-macos/releases/latest) — 把本地 macOS 小工具整理成真正可下载、可维护、可验证的项目
+3. [tianmind-landing](https://github.com/491034170/tianmind-landing) · [Live Demo](https://491034170.github.io/tianmind-landing/) — 工作室品牌落地页模板
+4. [expert-review-panel](https://github.com/491034170/expert-review-panel) · [Live Guide](https://491034170.github.io/expert-review-panel/) — 严审型 Claude Skill / AI 工作流
+5. [english-coach](https://github.com/491034170/english-coach) · [Live Guide](https://491034170.github.io/english-coach/) — 把日常对话变成英语训练
 
 ---
 
@@ -59,22 +61,32 @@
 
 ## 代表作 / Featured work
 
-### 1) [tianmind-landing](https://github.com/491034170/tianmind-landing)
+### 1) [word-pdf-watermark-macos](https://github.com/491034170/word-pdf-watermark-macos)
+一个把桌面上的 macOS 文档工具，整理成真正像样开源项目的例子，也代表我做项目时的交付方式：不只交一个能跑的结果，而是把源码、说明、发布、验证和维护路径一起补齐。
+- 有源码，不只是编译好的 `.app`
+- 有 GitHub Pages 落地页 / 下载页
+- 有 Release、SHA256、MIT License
+- 有 macOS GitHub Actions smoke test
+- 看源码：<https://github.com/491034170/word-pdf-watermark-macos>
+- Live Site：<https://491034170.github.io/word-pdf-watermark-macos/>
+- Latest Release：<https://github.com/491034170/word-pdf-watermark-macos/releases/latest>
+
+### 2) [tianmind-landing](https://github.com/491034170/tianmind-landing)
 工作室 / 独立开发者品牌落地页模板，零构建、零依赖，可直接部署到 GitHub Pages 或 Cloudflare Pages。
 - 看源码：<https://github.com/491034170/tianmind-landing>
 - 看演示：<https://491034170.github.io/tianmind-landing/>
 
-### 2) [expert-review-panel](https://github.com/491034170/expert-review-panel)
+### 3) [expert-review-panel](https://github.com/491034170/expert-review-panel)
 严审型 Claude Skill：模拟多专家评审团，在论文、BP、代码、竞赛材料真正提交之前，先把致命问题翻出来。
 - Live Guide：<https://491034170.github.io/expert-review-panel/>
 - Latest Release：<https://github.com/491034170/expert-review-panel/releases/latest>
 
-### 3) [english-coach](https://github.com/491034170/english-coach)
+### 4) [english-coach](https://github.com/491034170/english-coach)
 把每一次 Claude 对话变成英语练习：先回答问题，再纠错，再教一个更自然的表达。
 - Live Guide：<https://491034170.github.io/english-coach/>
 - Latest Release：<https://github.com/491034170/english-coach/releases/latest>
 
-### 4) 商业项目：ruoyi-saas（私有，可提供 demo）
+### 5) 商业项目：ruoyi-saas（私有，可提供 demo）
 基于 RuoYi-Vue 的多租户 SaaS 管理系统，支持企业租户隔离、泛域名部署、定制功能扩展。
 
 ---
