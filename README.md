@@ -25,9 +25,9 @@
 
 真实业务里沉淀多年、今年起整理脱敏成开源工具的一条完整链路。适合拿到 VPS 想自建站点 / 做代码服务的同行：
 
-1. ⭐ [**site-bootstrap**](https://github.com/491034170/site-bootstrap) · [Release](https://github.com/491034170/site-bootstrap/releases/latest) — 一条命令把静态站或 Node 应用部到你的 VPS。Cloudflare DNS + nginx + Let's Encrypt 全链路自动化，带 rollback 和 `--dry-run`。
-2. ⭐ [**vps-init**](https://github.com/491034170/vps-init) · [Release](https://github.com/491034170/vps-init/releases/latest) — 一键初始化 Ubuntu / Debian VPS。**为中国大陆 / 香港 VPS 做过针对性调优**：阿里云镜像、fail2ban bantime 升级、小内存 VPS 的 swap 策略、SSH 加固带防锁死保护。
-3. ⭐ [**cloudflare-cn-kit**](https://github.com/491034170/cloudflare-cn-kit) · [Release](https://github.com/491034170/cloudflare-cn-kit/releases/latest) — 面向中国/香港运维的 CF CLI。**核心卖点**：一条命令诊断最常撞的 Flexible-SSL 无限重定向死循环。
+1. ⭐ [**site-bootstrap**](https://github.com/491034170/site-bootstrap) · [Live Site](https://491034170.github.io/site-bootstrap/) · [Release](https://github.com/491034170/site-bootstrap/releases/latest) — 一条命令把静态站或 Node 应用部到你的 VPS。Cloudflare DNS + nginx + Let's Encrypt 全链路自动化，带 rollback 和 `--dry-run`。
+2. ⭐ [**vps-init**](https://github.com/491034170/vps-init) · [Live Site](https://491034170.github.io/vps-init/) · [Release](https://github.com/491034170/vps-init/releases/latest) — 一键初始化 Ubuntu / Debian VPS。**为中国大陆 / 香港 VPS 做过针对性调优**：阿里云镜像、fail2ban bantime 升级、小内存 VPS 的 swap 策略、SSH 加固带防锁死保护。
+3. ⭐ [**cloudflare-cn-kit**](https://github.com/491034170/cloudflare-cn-kit) · [Live Site](https://491034170.github.io/cloudflare-cn-kit/) · [Release](https://github.com/491034170/cloudflare-cn-kit/releases/latest) — 面向中国/香港运维的 CF CLI。**核心卖点**：一条命令诊断最常撞的 Flexible-SSL 无限重定向死循环。
 
 ### 📦 其它作品 / Other projects
 
